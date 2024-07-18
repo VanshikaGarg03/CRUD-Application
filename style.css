@@ -1,0 +1,16 @@
+body{
+  background: #1d2630;
+} 
+*{
+  color: #fff;
+}  
+#Update{
+  display: none;
+}
+#crudTable {
+  background-color: #1d2630;
+  color: #fff;
+}
+#crudTable th, #crudTable td {
+  border-color: #fff;
+}
